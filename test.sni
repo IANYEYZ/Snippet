@@ -1,0 +1,2 @@
+if (hotkeyId == 1): keyboard.write("Hello, world!")
+if (hotkeyId == 2): keyboard.write("Hello, world!!!")

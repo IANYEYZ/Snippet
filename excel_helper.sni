@@ -1,0 +1,5 @@
+if hotkeyId == 1: 
+    # pyautogui.keyDown("backspace")
+    # pyautogui.keyDown("backspace")
+    pyautogui.keyDown("backspace")
+    keyboard.write("average(")

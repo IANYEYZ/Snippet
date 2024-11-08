@@ -1,0 +1,15 @@
+{
+    "Hello World": {
+        "name": "test.sni",
+        "hotkey": {
+            "ctrl+1": 1,
+            "ctrl+3": 2
+        }
+    },
+    "Excel Helper": {
+        "name": "excel_helper.sni",
+        "hotkey": {
+            "a+v+e": 1
+        }
+    }
+}
